@@ -48,7 +48,7 @@ We fit our models with the same data, but resampled as required. After, we made 
 
 - The model had a sensitivity (recall) score of **0.72** for high-risk aplicants and **0.57** for low-risk applications. 
 
-![CombinedReSampling](imgs/CombinedReSampling.png)
+![CombinedReSampling](imgs/CombinedReSampling.PNG)
 
 ### Ensembled Model with BalancedRandomForestClassifier
 
